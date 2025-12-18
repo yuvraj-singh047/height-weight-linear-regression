@@ -38,6 +38,7 @@ Predicted Weight: ~155 lbs
 ```
 
 ## 📁 Repository Structure
+```
 height-weight-linear-regression/
 │
 ├── height_weight_linear_regression.ipynb
